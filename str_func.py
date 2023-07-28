@@ -1,3 +1,3 @@
 def get_capital_letters(some_string: str) -> str:
-    '''Делает все буквы звглавными'''
+    '''Приводит всю строку к верхнему регистру''
     return some_string.upper()
