@@ -5,3 +5,7 @@ def get_capital_letters(some_string: str) -> str:
 def get_first_letter_up(new_string: str) -> str:
     '''Переводит первые буквы каждого слова в верхний регистр'''
     return new_string.title()
+
+
+def func():
+    return None
