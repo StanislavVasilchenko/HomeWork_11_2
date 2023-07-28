@@ -7,5 +7,5 @@ def get_first_letter_up(new_string: str) -> str:
     return new_string.title()
 
 
-def func():
+def new_func():
     return None
